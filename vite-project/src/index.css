@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Kanit", sans-serif !important;
+  font-size: 18px;
+  font-weight: normal;
+}
